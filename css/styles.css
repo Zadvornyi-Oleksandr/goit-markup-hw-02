@@ -12,8 +12,10 @@ a {
 }
 /*---------------------header---------------------*/
 .header {
+  background: #fff;
 }
 .header-navigation {
+  
 }
 
 .header-logo {
@@ -49,6 +51,7 @@ a {
 }
 /*---------------------section1"hero"---------------------*/
 .hero {
+  background: #2e2f42;
 }
 .hero-title {
 font-family: "Roboto", sans-serif;
@@ -58,6 +61,7 @@ line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
+}
 
 .hero-btn {
 font-family: "Roboto", sans-serif;
@@ -66,6 +70,7 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
+background: #4d5ae5;
 }
 
 /*---------------------section2"features"---------------------*/
@@ -95,11 +100,16 @@ color: #434455;
 
 
 /*---------------------section3"Our Team"---------------------*/
+.taste-sect {
+background: #f4f4fd;
+}
+
 .taste {
+  
     font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 36px;
-line-height: 1.11111;
+line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
@@ -142,7 +152,6 @@ color: #2e2f42;
 
 }
 .accent-title {
-  
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -162,3 +171,34 @@ color: #434455;
 
 
 /*---------------------footer------------------  ---*/
+.footer {
+  background: #2e2f42;
+}
+
+.footer-logo {
+  font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #f4f4fd;
+
+}
+.footer-logo-color {
+font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+}
+
+.footer-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #f4f4fd;
+}
