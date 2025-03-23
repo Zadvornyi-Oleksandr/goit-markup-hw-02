@@ -6,16 +6,17 @@
   background-color: #ffffff;
 }
 
-ul {
+.ul {
   list-style-type: none;
 }
 
-a {
+.a {
   text-decoration: none;
 }
 /*---------------------header---------------------*/
 .header {
   background: #fff;
+  line-height: 1.17;
 }
 
 .header-navigation {
