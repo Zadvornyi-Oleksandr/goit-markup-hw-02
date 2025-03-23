@@ -1,7 +1,7 @@
 /*---------------------head---------------------*/
 
 body {
-  font-family: "Raleway", sans-serif, "Roboto", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 ul {
@@ -44,7 +44,6 @@ a {
 }
 
 .header-menu-link {
-  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -57,7 +56,6 @@ a {
 }
 
 .hero-title {
-  font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -85,7 +83,6 @@ a {
 .features-item {
 }
 .features-subtitle {
-  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -93,7 +90,6 @@ a {
   color: #2e2f42;
 }
 .features-item-text {
-  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -107,7 +103,6 @@ a {
 }
 
 .taste {
-  font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -120,7 +115,6 @@ a {
 }
 
 .taste-title {
-  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -130,7 +124,6 @@ a {
 }
 
 .taste-text {
-  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
