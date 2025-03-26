@@ -1,20 +1,17 @@
 /*---------------------head---------------------*/
 
-.body {
+body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
 }
 
-.header {
-}
-
-.ul {
+ul {
   list-style-type: none;
   background-color: #ffffff;
 }
 
-.a {
+a {
   text-decoration: none;
 }
 /*---------------------header---------------------*/
@@ -38,16 +35,10 @@
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #2e2f42;
-  color: #4d5ae5;
 }
 
 .header-logo-color {
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #2e2f42;
+  color: #4d5ae5;
 }
 .header-menu-list {
 }
