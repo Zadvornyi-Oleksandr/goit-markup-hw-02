@@ -40,7 +40,9 @@ addres {
 .header-logo-color {
   color: #2e2f42;
 }
-.header-menu-list {
+.header-menu-list :hover,
+:focus {
+  color: #404bbf;
 }
 
 .header-menu-item {
