@@ -15,7 +15,7 @@ a {
   text-decoration: none;
 }
 /*---------------------header---------------------*/
-header {
+.header {
   background: #fff;
   line-height: 1.17;
 }
@@ -23,7 +23,7 @@ header {
 .header-navigation {
 }
 
-addres {
+.addres {
   font-style: normal;
 }
 
