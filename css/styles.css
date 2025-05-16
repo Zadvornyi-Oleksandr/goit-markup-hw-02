@@ -37,8 +37,8 @@ header {
   color: #2e2f42;
 }
 
-.header-menu-list :hover,
-.header-menu-list :focus {
+.header-menu-list:hover,
+.header-menu-list:focus {
   color: #404bbf;
 }
 
@@ -59,8 +59,8 @@ header {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.address-list :hover,
-.address-list :focus {
+.address-list:hover,
+.address-list:focus {
   color: #404bbf;
 }
 /*---------------------section1"hero"---------------------*/
@@ -88,8 +88,8 @@ header {
   background-color: #4d5ae5;
 }
 
-.hero-btn :hover,
-.hero-btn :focus {
+.hero-btn:hover,
+.hero-btn:focus {
   background-color: #404bbf;
 }
 
