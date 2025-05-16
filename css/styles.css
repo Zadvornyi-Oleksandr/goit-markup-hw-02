@@ -37,8 +37,8 @@ header {
   color: #2e2f42;
 }
 
-.header-menu-list:hover,
-.header-menu-list:focus {
+.header-menu-list :hover,
+.header-menu-list :focus {
   color: #404bbf;
 }
 
@@ -62,6 +62,7 @@ header {
 .address-list:hover,
 .address-list:focus {
   color: #404bbf;
+  color: #434455;
 }
 /*---------------------section1"hero"---------------------*/
 .hero {
