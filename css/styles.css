@@ -77,10 +77,13 @@ header {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
-  background: #4d5ae5;
-  background-color: #404bbf;
   cursor: pointer;
   background-color: #4d5ae5;
+}
+
+.hero-btn :hover,
+.hero-btn :focus {
+  background-color: #404bbf;
 }
 
 /*---------------------section2"features"---------------------*/
