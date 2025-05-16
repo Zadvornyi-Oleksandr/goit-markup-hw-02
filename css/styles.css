@@ -123,6 +123,10 @@ header {
   background: #f4f4fd;
 }
 
+.taste-sect-list {
+  background-color: #ffffff;
+}
+
 .taste {
   font-weight: 700;
   font-size: 36px;
