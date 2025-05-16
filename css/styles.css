@@ -53,17 +53,14 @@ header {
   color: #2e2f42;
 }
 
-address {
-  font-style: normal;
-}
-
 .address {
+  font-style: normal;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.address :hover,
-.address :focus {
+.address-list :hover,
+.address-list :focus {
   color: #404bbf;
 }
 /*---------------------section1"hero"---------------------*/
